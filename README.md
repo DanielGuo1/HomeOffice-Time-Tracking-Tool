@@ -1,12 +1,12 @@
 # Time Tracking Tool 
 #### Track your Working Hours during HomeOffice
-![](https://github.com/DanielGuo1/Zeitwaechter/blob/master/zeitwaechter.PNG) 
+![](https://github.com/DanielGuo1/HomeOffice-Time-Tracking-Tool/blob/main/img/zeitwaechter.PNG) 
 - Automated TimeTracking Tool 
 - PyQt5 Window with System Tray Intergration
 - Reminder after regular Workingtime
 - Reminder 15 min before max. time (10:45h)
 
-![](https://github.com/DanielGuo1/Zeitwaechter/blob/master/Regelarbeitszeit.PNG)
+![](https://github.com/DanielGuo1/HomeOffice-Time-Tracking-Tool/blob/main/img/Regelarbeitszeit.PNG)
 
 
 ## Requirements
@@ -34,8 +34,8 @@ This File contains your Shutup Time for today. If you do not want to execute thi
 	*	Action: Start a program (C:\Windows\System32\WindowsPowerShell\v1.0\powershell.exe)
 		Add Arguments: -File yourPath/to/Zeitwaechter.ps1 (no quotation marks)
 		e.g. *-File C:\Users\platau\Documents\Zeitwaechter.ps1*
-![](https://github.com/DanielGuo1/Zeitwaechter/blob/master/action_onLOGON.PNG)
-![](https://github.com/DanielGuo1/Zeitwaechter/blob/master/taskschd_action.PNG)
+![](https://github.com/DanielGuo1/HomeOffice-Time-Tracking-Tool/blob/main/img/action_onLOGON.PNG)
+![](https://github.com/DanielGuo1/HomeOffice-Time-Tracking-Tool/blob/main/img/taskschd_action.PNG)
 
 Problem
 ---
@@ -54,6 +54,6 @@ If you want to start this Tool everytime you start your Computer:
 ---
 Create a Shortcut of *start.vbs* to this Folder:
 C:\Users\USERNAME\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Startup
-![](https://github.com/DanielGuo1/Zeitwaechter/blob/master/Autostart.PNG)
+![](https://github.com/DanielGuo1/HomeOffice-Time-Tracking-Tool/blob/main/img/Autostart.PNG)
 
 **Important: Do not copy start.vbs to the folder → Creat a Shortcut**
