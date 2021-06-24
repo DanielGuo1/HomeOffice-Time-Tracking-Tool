@@ -1,0 +1,2 @@
+"EventID","MachineName","Data","Index","Category","CategoryNumber","EntryType","Message","Source","ReplacementStrings","InstanceId","TimeGenerated","TimeWritten","UserName","Site","Container"
+"6005","SDL-SLAP7090.int.lidl.net","System.Byte[]","64662","(0)","0","Information","Der Ereignisprotokolldienst wurde gestartet.","EventLog","System.String[]","2147489653","05.02.2021 09:02:07","05.02.2021 09:02:07",,,

@@ -1,0 +1,1 @@
+Get-Eventlog -Logname System -InstanceId 2147489654,2147489653  -Source Eventlog -after ([datetime]::Today) | Export-Csv -Path "C:\Users\platau\Documents\05_Projekte\ArbeitszeitTool\Zeitwaechter\StartTime.csv" -NoTypeInformation

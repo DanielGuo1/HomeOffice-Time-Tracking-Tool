@@ -1,0 +1,1 @@
+CreateObject("Wscript.Shell").Run "zeitwaechter.bat", 0, True
